@@ -1,0 +1,4 @@
+read_verilog '/home/elab/Documents/AXMG/aspdac_xmgs/log2.v'
+read_library '/home/elab/Desktop/cadence.genlib'
+map
+print_stats
